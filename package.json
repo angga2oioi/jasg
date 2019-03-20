@@ -1,0 +1,32 @@
+{
+  "name": "jasg",
+  "version": "0.0.1",
+  "description": "Just Another Sitemap Generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start":"node ./bin/index.js"
+  },
+  "bin": {
+    "jasg": "./bin/index.js"
+  },
+  "keywords": [
+    "sitemap",
+    "crawler"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angga2oioi/jasg.git"
+  },
+  "author": "angga2oioi",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "install": "^0.12.2",
+    "js2xmlparser": "^4.0.0",
+    "npm": "^6.9.0",
+    "restler": "^3.4.0"
+  }
+}
