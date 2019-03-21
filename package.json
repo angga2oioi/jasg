@@ -1,13 +1,13 @@
 {
   "name": "jasg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Just Another Sitemap Generator",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
-    "start":"node ./bin/index.js"
+    "start": "node ./bin/index.js"
   },
   "bin": {
     "jasg": "./bin/index.js"
