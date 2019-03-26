@@ -1,6 +1,6 @@
 {
   "name": "jasg",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Just Another Sitemap Generator",
   "main": "index.js",
   "directories": {
@@ -12,8 +12,8 @@
   "bin": {
     "jasg": "./bin/index.js"
   },
-  "engines" : { 
-    "node" : ">=6.17.0" 
+  "engines": {
+    "node": ">=6.17.0"
   },
   "keywords": [
     "sitemap",
