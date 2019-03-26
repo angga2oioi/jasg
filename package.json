@@ -12,6 +12,9 @@
   "bin": {
     "jasg": "./bin/index.js"
   },
+  "engines" : { 
+    "node" : ">=6.17.0" 
+  },
   "keywords": [
     "sitemap",
     "crawler"
