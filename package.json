@@ -1,6 +1,6 @@
 {
   "name": "jasg",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Just Another Sitemap Generator",
   "main": "index.js",
   "directories": {
